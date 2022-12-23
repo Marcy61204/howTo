@@ -1,0 +1,29 @@
+*{
+background-color:  #b6c199
+
+}
+
+h1{
+font-size: 2 rem;
+color: #703f37 ;
+font-weight: 600;
+text-align: center;
+}
+
+h2{
+font-size: 1.5rem;
+color: #703f37
+}
+
+h3 {
+
+    font-size: 1.3rem;
+    color:#c8b7a6 ;
+
+ a {
+background-color: #b6c199 ;
+color: #7d94b5 ;
+text decoration: none 
+padding: 18px;
+    }
+}
