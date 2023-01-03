@@ -1,11 +1,11 @@
 *{
-background-color: #b6c199
+background-color:  #b6c199
 
 }
 
 h1{
 font-size:2 rem;
-color: #703f37 ;
+color:#703f37 ;
 font-weight: 600;
 text-align: center;
 }
@@ -21,7 +21,7 @@ h3 {
    color:#c8b7a6 ;
 
  a {
-background-color: #b6c199 ;
+background-color: #b6c19 ;
 color: #7d94b5 ;
 text decoration: none ; 
 padding: 18px;
